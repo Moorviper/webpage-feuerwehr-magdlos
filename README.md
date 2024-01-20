@@ -1,9 +1,11 @@
 # Webpage Feuerwehr Magdlos
 
-Everything you need to build the Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
+[`Live-Version`](https://feuerwehr-magdlos.de/)
+
 
 ## Developing
 
+This website is created with svelte kit.
 Once you've checked out the project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
 
 ```bash
